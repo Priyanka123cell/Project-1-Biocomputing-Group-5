@@ -1,0 +1,274 @@
+LOCUS       NM_170746               1192 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens selenoprotein H (SELENOH), transcript variant 1, mRNA.
+ACCESSION   NM_170746
+VERSION     NM_170746.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1192)
+  AUTHORS   Cao,L., Pechan,T., Lee,S. and Cheng,W.H.
+  TITLE     Identification of Selenoprotein H Isoforms and Impact of
+            Selenoprotein H Overexpression on Protein But Not mRNA Levels of 2
+            Other Selenoproteins in 293T Cells
+  JOURNAL   J Nutr 151 (11), 3329-3338 (2021)
+   PUBMED   34510207
+  REMARK    GeneRIF: Identification of Selenoprotein H Isoforms and Impact of
+            Selenoprotein H Overexpression on Protein But Not mRNA Levels of 2
+            Other Selenoproteins in 293T Cells.
+            Erratum:[J Nutr. 2021 Nov 2;151(11):3597. doi: 10.1093/jn/nxab346.
+            PMID: 34726735]
+REFERENCE   2  (bases 1 to 1192)
+  AUTHORS   Bertz,M., Kuhn,K., Koeberle,S.C., Muller,M.F., Hoelzer,D.,
+            Thies,K., Deubel,S., Thierbach,R. and Kipp,A.P.
+  TITLE     Selenoprotein H controls cell cycle progression and proliferation
+            of human colorectal cancer cells
+  JOURNAL   Free Radic Biol Med 127, 98-107 (2018)
+   PUBMED   29330096
+  REMARK    GeneRIF: The high levels of SELENOH in tumors as well as in
+            undifferentiated, proliferative cells together with its inhibitory
+            effects on proliferation and G1/S phase transition suggest SELENOH
+            as a key regulator for cell cycle progression and for prevention of
+            uncontrolled proliferation
+REFERENCE   3  (bases 1 to 1192)
+  AUTHORS   Barage,S.H., Deobagkar,D.D. and Baladhye,V.B.
+  TITLE     Characterization of structural and functional role of
+            selenocysteine in selenoprotein H and its impact on DNA binding
+  JOURNAL   Amino Acids 50 (5), 593-607 (2018)
+   PUBMED   29480333
+  REMARK    GeneRIF: the obtained results clearly illustrate Sec residue plays
+            an important role to restore functionally active conformation of
+            SELENOH. The present study broadened our current understanding
+            regarding the role of selenocysteine in protein structure and
+            function.
+REFERENCE   4  (bases 1 to 1192)
+  AUTHORS   Cox,A.G., Tsomides,A., Kim,A.J., Saunders,D., Hwang,K.L.,
+            Evason,K.J., Heidel,J., Brown,K.K., Yuan,M., Lien,E.C., Lee,B.C.,
+            Nissim,S., Dickinson,B., Chhangawala,S., Chang,C.J., Asara,J.M.,
+            Houvras,Y., Gladyshev,V.N. and Goessling,W.
+  TITLE     Selenoprotein H is an essential regulator of redox homeostasis that
+            cooperates with p53 in development and tumorigenesis
+  JOURNAL   Proc Natl Acad Sci U S A 113 (38), E5562-E5571 (2016)
+   PUBMED   27588899
+  REMARK    GeneRIF: Transcriptome analysis revealed that SepH deficiency
+            induces an inflammatory response and activates the p53 pathway.
+            Consequently, loss of seph renders larvae susceptible to oxidative
+            stress and DNA damage. Finally, we demonstrate that seph interacts
+            with p53 deficiency in adulthood to accelerate gastrointestinal
+            tumor development
+REFERENCE   5  (bases 1 to 1192)
+  AUTHORS   Mendelev,N., Mehta,S.L., Witherspoon,S., He,Q., Sexton,J.Z. and
+            Li,P.A.
+  TITLE     Upregulation of human selenoprotein H in murine hippocampal
+            neuronal cells promotes mitochondrial biogenesis and functional
+            performance
+  JOURNAL   Mitochondrion 11 (1), 76-82 (2011)
+   PUBMED   20656065
+  REMARK    GeneRIF: Overexpression of SelH promotes mitochondrial biogenesis
+            and improves mitochondrial functional performance.
+REFERENCE   6  (bases 1 to 1192)
+  AUTHORS   Mendelev,N., Witherspoon,S. and Li,P.A.
+  TITLE     Overexpression of human selenoprotein H in neuronal cells
+            ameliorates ultraviolet irradiation-induced damage by modulating
+            cell signaling pathways
+  JOURNAL   Exp Neurol 220 (2), 328-334 (2009)
+   PUBMED   19766117
+  REMARK    GeneRIF: t SelH protects neurons against UVB-induced damage by
+            inhibiting apoptotic cell death pathways
+REFERENCE   7  (bases 1 to 1192)
+  AUTHORS   Panee,J., Stoytcheva,Z.R., Liu,W. and Berry,M.J.
+  TITLE     Selenoprotein H is a redox-sensing high mobility group family
+            DNA-binding protein that up-regulates genes involved in glutathione
+            synthesis and phase II detoxification
+  JOURNAL   J Biol Chem 282 (33), 23759-23765 (2007)
+   PUBMED   17526492
+  REMARK    GeneRIF: selenoprotein H is a redox-responsive DNA-binding protein
+            of the AT-hook family and functions in regulating expression levels
+            of genes involved in de novo glutathione synthesis and phase II
+            detoxification in response to redox status.
+REFERENCE   8  (bases 1 to 1192)
+  AUTHORS   Novoselov,S.V., Kryukov,G.V., Xu,X.M., Carlson,B.A., Hatfield,D.L.
+            and Gladyshev,V.N.
+  TITLE     Selenoprotein H is a nucleolar thioredoxin-like protein with a
+            unique expression pattern
+  JOURNAL   J Biol Chem 282 (16), 11960-11968 (2007)
+   PUBMED   17337453
+  REMARK    GeneRIF: SelH is a novel nucleolar oxidoreductase that may have
+            functions which are regulated by redox and dependent on the trace
+            element selenium
+REFERENCE   9  (bases 1 to 1192)
+  AUTHORS   Ben Jilani,K.E., Panee,J., He,Q., Berry,M.J. and Li,P.A.
+  TITLE     Overexpression of selenoprotein H reduces Ht22 neuronal cell death
+            after UVB irradiation by preventing superoxide formation
+  JOURNAL   Int J Biol Sci 3 (4), 198-204 (2007)
+   PUBMED   17389926
+  REMARK    GeneRIF: hSelH overexpression protects cells from UVB
+            irradiation-induced murine hippocampal neuronal cell death by
+            reducing the superoxide formation.
+REFERENCE   10 (bases 1 to 1192)
+  AUTHORS   Kryukov,G.V., Castellano,S., Novoselov,S.V., Lobanov,A.V.,
+            Zehtab,O., Guigo,R. and Gladyshev,V.N.
+  TITLE     Characterization of mammalian selenoproteomes
+  JOURNAL   Science 300 (5624), 1439-1443 (2003)
+   PUBMED   12775843
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF536829.1 and AF085883.1.
+            
+            On Nov 22, 2018 this sequence version replaced NM_170746.3.
+            
+            Summary: This gene encodes a nucleolar protein, which belongs to
+            the SelWTH family. It functions as an oxidoreductase, and has been
+            shown to protect neurons against UVB-induced damage by inhibiting
+            apoptotic cell death pathways, promote mitochondrial biogenesis and
+            mitochondrial function, and suppress cellular senescence through
+            genome maintenance and redox regulation. This protein is a
+            selenoprotein, containing the rare amino acid selenocysteine (Sec)
+            at its active site. Sec is encoded by the UGA codon, which normally
+            signals translation termination. The 3' UTRs of selenoprotein mRNAs
+            contain a conserved stem-loop structure, designated the Sec
+            insertion sequence (SECIS) element, that is necessary for the
+            recognition of UGA as a Sec codon, rather than as a stop signal.
+            Alternatively spliced transcript variants have been found for this
+            gene. [provided by RefSeq, May 2016].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript. Variants 1 and 2 encode the same protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1163655.617179.1,
+                                           SRR1163655.287763.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match              :: ENST00000534355.6/
+                                               ENSP00000434511.1
+            protein contains selenocysteine :: PMID: 12775843
+            RefSeq Select criteria          :: based on conservation,
+                                               expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-680               AF536829.1         138-817
+            681-1192            AF085883.1         8-519
+FEATURES             Location/Qualifiers
+     source          1..1192
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q12.1"
+     gene            1..1192
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="selenoprotein H"
+                     /db_xref="GeneID:280636"
+                     /db_xref="HGNC:HGNC:18251"
+                     /db_xref="MIM:607914"
+     exon            1..227
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             106..474
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="UGA stop codon recoded as selenocysteine"
+                     /codon_start=1
+                     /transl_except=(pos:235..237,aa:Sec)
+                     /product="selenoprotein H"
+                     /protein_id="NP_734467.1"
+                     /db_xref="CCDS:CCDS44602.1"
+                     /db_xref="GeneID:280636"
+                     /db_xref="HGNC:HGNC:18251"
+                     /db_xref="MIM:607914"
+                     /translation="MAPRGRKRKAEAAVVAVAEKREKLANGGEGMEEATVVIEHCTSU
+                     RVYGRNAAALSQALRLEAPELPVKVNPTKPRRGSFEVTLLRPDGSSAELWTGIKKGPP
+                     RKLKFPEPQEVVEELKKYLS"
+     misc_feature    163..165
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (Q8IZQ5.2); acetylation site"
+     misc_feature    235..237
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="Selenocysteine; other site"
+     exon            228..373
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            374..504
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            505..1192
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      523..590
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+     regulatory      660..665
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="hexamer: AATAAA"
+     regulatory      672..677
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="hexamer: AATAAA"
+     polyA_site      673
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+     polyA_site      680
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="major polyA site"
+     polyA_site      699
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+     regulatory      1172..1177
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+                     /note="hexamer: AATAAT"
+     polyA_site      1192
+                     /gene="SELENOH"
+                     /gene_synonym="C11orf31; C17orf10; SELH"
+ORIGIN      
+        1 agagcttccg ggctgcgctc ttcgttgccc agtttccgct cagtggtcgc gtctccgccc
+       61 cccacccacc agtcccgctg cattctcggc cgggctctag gcgccatggc tccccgcggg
+      121 aggaagcgta aggctgaggc cgcggtggtc gccgtagccg agaagcgaga gaagctggcg
+      181 aacggcgggg agggaatgga ggaggcgacc gttgttatcg agcattgcac tagctgacgc
+      241 gtctatgggc gcaacgccgc ggccctgagc caggcgctgc gcctggaggc cccagagctt
+      301 ccagtaaagg tgaacccgac gaagccccgg aggggcagct tcgaggtgac gctgctgcgc
+      361 ccggacggca gcagtgcgga gctctggact gggattaaga aggggccccc acgcaaactc
+      421 aaattccctg agcctcaaga ggtggtggaa gagttgaaga agtacctgtc gtagggagat
+      481 ttgggtagaa gccctcatgc tgagctttgt gtccctggtg atgttggaac attaatgatg
+      541 gaacatggcc aaacttcagt catgatcctg aagccatggt ttcttccctg ccagaaatga
+      601 aggttcagtt atgaggcaac cctctagtaa ggcattgtaa aagttactgg atttggttta
+      661 ataaaagttg aaataaagta tttgagtaat agagtaaaac ttaatcttaa gggatggaca
+      721 aagccagcct tgtggagttg gtagtccttg tgtttttcat agcccaagat agccatgtga
+      781 cctggaactt ttaaaaaaaa attttttttt aagagccaga gtctcacttt gtcacccatg
+      841 ctggagtata gtggtgctat ctcggctcac tgcaaccatt gtctcccagg ttcaagcgat
+      901 actcctgcct cagtctcctg agtagctggg atcacaggtg cacaccacca cgcctggcta
+      961 atttttttat ttttattttt agtaaaggcg gggtttcacc atgttggcca ggctggtctc
+     1021 aaactcctga cctcaagtga tatgcctgcc ttgacctccc aaagtgctgg ggttacaggc
+     1081 atgatgagcc accgcacctg gcctgacctg caacttttat gatctctggt aaaacatgag
+     1141 aaatacttgt aaaaattatg ggagcaaagt aaataattta ttttttaaaa aa
+//
+

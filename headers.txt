@@ -1,0 +1,3 @@
+>NP_734467.1 selenoprotein H [Homo sapiens]
+>NM_170746.4 Homo sapiens selenoprotein H (SELENOH), transcript variant 1, mRNA
+DEFINITION  Homo sapiens selenoprotein H (SELENOH), transcript variant 1, mRNA.
