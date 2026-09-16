@@ -1,0 +1,2 @@
+>NM_000795.4 Homo sapiens dopamine receptor D2 (DRD2), transcript variant 1, mRNA
+>NP_000786.1 D(2) dopamine receptor isoform long [Homo sapiens]
