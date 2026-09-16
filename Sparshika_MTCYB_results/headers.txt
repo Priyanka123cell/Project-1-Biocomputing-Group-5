@@ -1,0 +1,2 @@
+MTCYB_protein.fasta:>YP_003024038.1 cytochrome b (mitochondrion) [Homo sapiens]
+Mitochondrial_genome.fasta:>NC_012920.1 Homo sapiens mitochondrion, complete genome

@@ -1,0 +1,2 @@
+CDS length: 16864 nucleotides
+Divisible by 3: False
