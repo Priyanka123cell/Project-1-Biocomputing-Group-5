@@ -16,3 +16,16 @@ Steps performed:
 | 1(d) | Header lines | headers.txt |
 | 2(a) | CDS extraction and length check | MTCYB_CDS_corrected.fasta |
 | 2(b) | Translation of CDS | Sparshika_MTCYB_Script.ipynb |
+# Biocomputing Project 1
+
+## 1. Project Overview
+
+This project involved retrieving a selected gene sequence from NCBI, obtaining its GenBank and protein records, extracting the CDS, translating the coding sequence, and comparing the translated protein sequence with the deposited protein sequence.
+
+## 2. Team Members and Gene Selection
+
+| Member | Category | Gene |
+|--------|----------|------|
+| Sparshika Mishra | Mitochondrial gene | MT-CYB |
+| Sampurna Ganguly | Selenoprotein gene | SELENOH |
+| Priyanka Deb | Nuclear gene | DRD2 |
