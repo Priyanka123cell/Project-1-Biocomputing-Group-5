@@ -1,0 +1,410 @@
+LOCUS       NM_000795               2808 bp    mRNA    linear   PRI 06-SEP-2026
+DEFINITION  Homo sapiens dopamine receptor D2 (DRD2), transcript variant 1,
+            mRNA.
+ACCESSION   NM_000795
+VERSION     NM_000795.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2808)
+  AUTHORS   Lambert,J., Petrovitch,D., Himes,K.P., Freiermuth,C.E., Braun,R.S.,
+            Brown,J.L., Bischof,J.J., Lyons,M.S., Punches,B.E.,
+            Littlefield,A.K., Kisor,D.F. and Sprague,J.E.
+  TITLE     Association of genetic variants in CYP3A5, DRD2 and NK1R with
+            opioid overdose
+  JOURNAL   Chem Biol Interact 403, 111242 (2024)
+   PUBMED   39265714
+  REMARK    GeneRIF: Association of genetic variants in CYP3A5, DRD2 and NK1R
+            with opioid overdose.
+REFERENCE   2  (bases 1 to 2808)
+  AUTHORS   Qu,K., He,Y., Zhang,Z., Cao,Y., Qin,Q., Zhou,Z. and Zhen,L.
+  TITLE     Association Study Between DRD2, DRD3 Genetic Polymorphisms and
+            Adverse Reactions in Chinese Patients on Amisulpride Treatment
+  JOURNAL   Pharmacopsychiatry 57 (6), 283-289 (2024)
+   PUBMED   39187246
+  REMARK    GeneRIF: Association Study Between DRD2, DRD3 Genetic Polymorphisms
+            and Adverse Reactions in Chinese Patients on Amisulpride Treatment.
+REFERENCE   3  (bases 1 to 2808)
+  AUTHORS   Yang,Q., Zhang,X., Zhang,L., Cheng,C. and Zhao,J.
+  TITLE     Exploring the influence of the DRD2 gene on mathematical ability:
+            perspectives of gene association and gene-environment interaction
+  JOURNAL   BMC Psychol 12 (1), 572 (2024)
+   PUBMED   39425204
+  REMARK    GeneRIF: Exploring the influence of the DRD2 gene on mathematical
+            ability: perspectives of gene association and gene-environment
+            interaction.
+REFERENCE   4  (bases 1 to 2808)
+  AUTHORS   Ricard,J.A., Labache,L., Segal,A., Dhamala,E., Cocuzza,C.V.,
+            Jones,G., Yip,S.W., Chopra,S. and Holmes,A.J.
+  TITLE     A shared spatial topography links the functional connectome
+            correlates of cocaine use disorder and dopamine D2/3 receptor
+            densities
+  JOURNAL   Commun Biol 7 (1), 1178 (2024)
+   PUBMED   39300138
+  REMARK    GeneRIF: A shared spatial topography links the functional
+            connectome correlates of cocaine use disorder and dopamine D2/3
+            receptor densities.
+            Erratum:[Commun Biol. 2025 Feb 23;8(1):293. doi:
+            10.1038/s42003-025-07723-7. PMID: 39988590]
+REFERENCE   5  (bases 1 to 2808)
+  AUTHORS   Mathis,T., Baudin,F., Mariet,A.S., Augustin,S., Bricout,M.,
+            Przegralek,L., Roubeix,C., Benzenine,E., Blot,G., Nous,C.,
+            Kodjikian,L., Mauget-Faysse,M., Sahel,J.A., Plevin,R., Zeitz,C.,
+            Delarasse,C., Guillonneau,X., Creuzot-Garcher,C., Quantin,C.,
+            Hunot,S. and Sennlaub,F.
+  TITLE     DRD2 activation inhibits choroidal neovascularization in patients
+            with Parkinson's disease and age-related macular degeneration
+  JOURNAL   J Clin Invest 134 (17), e174199 (2024)
+   PUBMED   39012703
+  REMARK    GeneRIF: DRD2 activation inhibits choroidal neovascularization in
+            patients with Parkinson's disease and age-related macular
+            degeneration.
+REFERENCE   6  (bases 1 to 2808)
+  AUTHORS   Raymond,D., Saunders-Pullman,R. and Ozelius,L.
+  TITLE     SGCE Myoclonus-Dystonia
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301587
+REFERENCE   7  (bases 1 to 2808)
+  AUTHORS   Eubanks,J.H., Djabali,M., Selleri,L., Grandy,D.K., Civelli,O.,
+            McElligott,D.L. and Evans,G.A.
+  TITLE     Structure and linkage of the D2 dopamine receptor and neural cell
+            adhesion molecule genes on human chromosome 11q23
+  JOURNAL   Genomics 14 (4), 1010-1018 (1992)
+   PUBMED   1478642
+REFERENCE   8  (bases 1 to 2808)
+  AUTHORS   Liu,Y.F., Civelli,O., Grandy,D.K. and Albert,P.R.
+  TITLE     Differential sensitivity of the short and long human dopamine D2
+            receptor subtypes to protein kinase C
+  JOURNAL   J Neurochem 59 (6), 2311-2317 (1992)
+   PUBMED   1331329
+REFERENCE   9  (bases 1 to 2808)
+  AUTHORS   Araki,K., Kuwano,R., Morii,K., Hayashi,S., Minoshima,S.,
+            Shimizu,N., Katagiri,T., Usui,H., Kumanishi,T. and Takahashi,Y.
+  TITLE     Structure and expression of human and rat D2 dopamine receptor
+            genes
+  JOURNAL   Neurochem Int 21 (1), 91-98 (1992)
+   PUBMED   1363862
+  REMARK    Erratum:[Neurochem Int 1992 Oct;21(3):465]
+REFERENCE   10 (bases 1 to 2808)
+  AUTHORS   Dearry,A., Falardeau,P., Shores,C. and Caron,M.G.
+  TITLE     D2 dopamine receptors in the human retina: cloning of cDNA and
+            localization of mRNA
+  JOURNAL   Cell Mol Neurobiol 11 (5), 437-453 (1991)
+   PUBMED   1835903
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AP002840.3, DA693976.1,
+            BF437994.1, X51362.1 and BC021195.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_000795.3.
+            
+            Summary: This gene encodes the D2 subtype of the dopamine receptor.
+            This G-protein coupled receptor inhibits adenylyl cyclase activity.
+            A missense mutation in this gene causes myoclonus dystonia; other
+            mutations have been associated with schizophrenia. Alternative
+            splicing of this gene results in two transcript variants encoding
+            different isoforms. A third variant has been described, but it has
+            not been determined whether this form is normal or due to aberrant
+            splicing. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (long).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660807.202143.1, X51362.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145544, SAMEA2146411
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000362072.8/ ENSP00000354859.3
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-119               AP002840.3         111571-111689       c
+            120-302             DA693976.1         1-183
+            303-796             BF437994.1         16-509
+            797-1292            X51362.1           608-1103
+            1293-2798           BC021195.2         1034-2539
+            2799-2808           X51362.1           2592-2601
+FEATURES             Location/Qualifiers
+     source          1..2808
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q23.2"
+     gene            1..2808
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="dopamine receptor D2"
+                     /db_xref="GeneID:1813"
+                     /db_xref="HGNC:HGNC:3023"
+                     /db_xref="MIM:126450"
+     exon            1..323
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    319..321
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="upstream in-frame stop codon"
+     exon            324..639
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             355..1686
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="isoform long is encoded by transcript variant 1;
+                     d(2) dopamine receptor; seven transmembrane helix
+                     receptor; dopamine D2 receptor"
+                     /codon_start=1
+                     /product="D(2) dopamine receptor isoform long"
+                     /protein_id="NP_000786.1"
+                     /db_xref="CCDS:CCDS8361.1"
+                     /db_xref="GeneID:1813"
+                     /db_xref="HGNC:HGNC:3023"
+                     /db_xref="MIM:126450"
+                     /translation="MDPLNLSWYDDDLERQNWSRPFNGSDGKADRPHYNYYATLLTLL
+                     IAVIVFGNVLVCMAVSREKALQTTTNYLIVSLAVADLLVATLVMPWVVYLEVVGEWKF
+                     SRIHCDIFVTLDVMMCTASILNLCAISIDRYTAVAMPMLYNTRYSSKRRVTVMISIVW
+                     VLSFTISCPLLFGLNNADQNECIIANPAFVVYSSIVSFYVPFIVTLLVYIKIYIVLRR
+                     RRKRVNTKRSSRAFRAHLRAPLKGNCTHPEDMKLCTVIMKSNGSFPVNRRRVEAARRA
+                     QELEMEMLSSTSPPERTRYSPIPPSHHQLTLPDPSHHGLHSTPDSPAKPEKNGHAKDH
+                     PKIAKIFEIQTMPNGKTRTSLKTMSRRKLSQQKEKKATQMLAIVLGVFIICWLPFFIT
+                     HILNIHCDCNIPPVLYSAFTWLGYVNSAVNPIIYTTFNIEFRKAFLKILHC"
+     misc_feature    367..369
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); glycosylation site"
+     misc_feature    403..405
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); glycosylation site"
+     misc_feature    421..423
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); glycosylation site"
+     misc_feature    466..534
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     misc_feature    565..633
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     misc_feature    679..744
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     misc_feature    808..870
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     misc_feature    919..993
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     misc_feature    1036..1038
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P61169; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1039..1041
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P61169; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1195..1350
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1207..1209
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000305|PubMed:40781549; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1210..1212
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000305|PubMed:40781549; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1213..1215
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphothreonine, by GRK2 and GRK3.
+                     /evidence=ECO:0000269|PubMed:33859231,
+                     ECO:0000305|PubMed:40781549; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1216..1218
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000305|PubMed:40781549; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1231..1233
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000305|PubMed:40781549; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1240..1242
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine, by GRK2 and GRK3.
+                     /evidence=ECO:0000269|PubMed:33859231,
+                     ECO:0000305|PubMed:40781549; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1303..1305
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine, by GRK2 and GRK3.
+                     /evidence=ECO:0000269|PubMed:33859231; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1306..1308
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphothreonine, by GRK2 and GRK3.
+                     /evidence=ECO:0000269|PubMed:33859231; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1405..1407
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P61169; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1411..1413
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P61169; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1414..1416
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P61169; propagated from
+                     UniProtKB/Swiss-Prot (P14416.2); phosphorylation site"
+     misc_feature    1474..1539
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     misc_feature    1582..1647
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14416.2);
+                     transmembrane region"
+     exon            640..749
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     exon            750..886
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     exon            887..1077
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1078..1164
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1165..1492
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1493..2808
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2779..2784
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="hexamer: AATAAA"
+     polyA_site      2808
+                     /gene="DRD2"
+                     /gene_synonym="D2DR; D2R"
+                     /note="major polyA site"
+ORIGIN      
+        1 agtgccgaac cggcagcctc acgcgcgcac cgcgccgcct ccgccccgtc cccgcgctcc
+       61 ctcctgcccg cccgccccgc gcccggcccc gccccgcccc gccccgccgc ggcccgtcca
+      121 ctgctccccg cgggccagag ccggccgagc tgctgcccgc cggggctctg aacggcgcgg
+      181 cggggccggg agccagggac cggccgagga gagtggcggc cccggacggc tgccggaggg
+      241 gcggccgcgc gtggatgcgg cgggagctgg aagcctcaag cagccggcgc cgtctctgcc
+      301 cccgggcgcc ctatggcttg aagagcctgg ccacccagtg gctccaccgc cctgatggat
+      361 ccactgaatc tgtcctggta tgatgatgat ctggagaggc agaactggag ccggcccttc
+      421 aacgggtcag acgggaaggc ggacagaccc cactacaact actatgccac actgctcacc
+      481 ctgctcatcg ctgtcatcgt cttcggcaac gtgctggtgt gcatggctgt gtcccgcgag
+      541 aaggcgctgc agaccaccac caactacctg atcgtcagcc tcgcagtggc cgacctcctc
+      601 gtcgccacac tggtcatgcc ctgggttgtc tacctggagg tggtaggtga gtggaaattc
+      661 agcaggattc actgtgacat cttcgtcact ctggacgtca tgatgtgcac ggcgagcatc
+      721 ctgaacttgt gtgccatcag catcgacagg tacacagctg tggccatgcc catgctgtac
+      781 aatacgcgct acagctccaa gcgccgggtc accgtcatga tctccatcgt ctgggtcctg
+      841 tccttcacca tctcctgccc actcctcttc ggactcaata acgcagacca gaacgagtgc
+      901 atcattgcca acccggcctt cgtggtctac tcctccatcg tctccttcta cgtgcccttc
+      961 attgtcaccc tgctggtcta catcaagatc tacattgtcc tccgcagacg ccgcaagcga
+     1021 gtcaacacca aacgcagcag ccgagctttc agggcccacc tgagggctcc actaaagggc
+     1081 aactgtactc accccgagga catgaaactc tgcaccgtta tcatgaagtc taatgggagt
+     1141 ttcccagtga acaggcggag agtggaggct gcccggcgag cccaggagct ggagatggag
+     1201 atgctctcca gcaccagccc acccgagagg acccggtaca gccccatccc acccagccac
+     1261 caccagctga ctctccccga cccgtcccac catggtctcc acagcactcc cgacagcccc
+     1321 gccaaaccag agaagaatgg gcatgccaaa gaccacccca agattgccaa gatctttgag
+     1381 atccagacca tgcccaatgg caaaacccgg acctccctca agaccatgag ccgtaggaag
+     1441 ctctcccagc agaaggagaa gaaagccact cagatgctcg ccattgttct cggcgtgttc
+     1501 atcatctgct ggctgccctt cttcatcaca cacatcctga acatacactg tgactgcaac
+     1561 atcccgcctg tcctgtacag cgccttcacg tggctgggct atgtcaacag cgccgtgaac
+     1621 cccatcatct acaccacctt caacattgag ttccgcaagg ccttcctgaa gatcctccac
+     1681 tgctgactct gctgcctgcc cgcacagcag cctgcttccc acctccctgc ccaggccggc
+     1741 cagcctcacc cttgcgaacc gtgagcagga aggcctgggt ggatcggcct cctcttcacc
+     1801 ccggcaggcc ctgcagtgtt cgcttggctc catgctcctc actgcccgca caccctcact
+     1861 ctgccagggc agtgctagtg agctgggcat ggtaccagcc ctggggctgg gccccccagc
+     1921 tcaggggcag ctcatagagt cccccctccc acctccagtc cccctatcct tggcaccaaa
+     1981 gatgcagccg ccttccttga ccttcctctg gggctctagg gttgctggag cctgagtcag
+     2041 ggcccagagg ctgagttttc tctttgtggg gcttggcgtg gagcaggcgg tggggagaga
+     2101 tggacagttc acaccctgca aggcccacag gaggcaagca agctctcttg ccgaggagcc
+     2161 aggcaacttc agtcctggga gacccatgta aataccagac tgcaggttgg accccagaga
+     2221 ttcccaagcc aaaaacctta gctccctccc gcaccccgat gtggacctct actttccagg
+     2281 ctagtccgga cccacctcac cccgttacag ctccccaagt ggtttccaca tgctctgaga
+     2341 agaggagccc tcatcttgaa gggcccagga gggtctatgg ggagaggaac tccttggcct
+     2401 agcccaccct gctgccttct gacggccctg caatgtatcc cttctcacag cacatgctgg
+     2461 ccagcctggg gcctggcagg gaggtcaggc cctggaactc tatctgggcc tgggctaggg
+     2521 gacatcagag gttctttgag ggactgcctc tgccacactc tgacgcaaaa ccactttcct
+     2581 tttctattcc ttctggcctt tcctctctcc tgtttccctt cccttccact gcctctgcct
+     2641 tagaggagcc cacggctaag aggctgctga aaaccatctg gcctggcctg gccctgccct
+     2701 gaggaaggag gggaagctgc agcttgggag agcccctggg gcctagactc tgtaacatca
+     2761 ctatccatgc accaaactaa taaaactttg acgagtcacc ttccagga
+//
+
