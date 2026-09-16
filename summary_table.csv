@@ -1,0 +1,3 @@
+gene name,category,CDS length,translated length,deposited length (from database),identical (Y/N),position of first mismatch
+DRD2,Nuclear,1332,444,443,N,444
+MTCYB,Mitochondrial,1143,380,380,Y,N/A
